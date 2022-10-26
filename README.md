@@ -1,2 +1,2 @@
 # WordPress
-Snippets for WordPress website optimizations
+Snippets for WordPress websites optimizations
